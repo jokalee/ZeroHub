@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpTap", "SharpTap\SharpTap.csproj", "{7C181541-0858-49E1-B6EA-2B25ECF2749B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpTapUnitTest", "SharpTapUnitTest\SharpTapUnitTest.csproj", "{43BC7BCB-DA3F-42D7-B457-1266D834DD50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpNet", "SharpNet\SharpNet.csproj", "{CA9E9720-C36A-4CF2-BA67-A7174E232C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpNetUnitTest", "SharpNetUnitTest\SharpNetUnitTest.csproj", "{359076A4-CB72-457B-A59F-1E3DC8DFEA69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroHubClient", "ZeroHubClient\ZeroHubClient.csproj", "{8E369533-D6AC-4097-84B0-2E830F333DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroHubCore", "ZeroHubCore\ZeroHubCore.csproj", "{FFDC2ACD-9386-4D68-9E76-72967346A064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroHubServer", "ZeroHubServer\ZeroHubServer.csproj", "{902A2CE5-7D28-4EB5-A165-48C56F0E7DF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C181541-0858-49E1-B6EA-2B25ECF2749B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C181541-0858-49E1-B6EA-2B25ECF2749B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C181541-0858-49E1-B6EA-2B25ECF2749B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C181541-0858-49E1-B6EA-2B25ECF2749B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BC7BCB-DA3F-42D7-B457-1266D834DD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BC7BCB-DA3F-42D7-B457-1266D834DD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BC7BCB-DA3F-42D7-B457-1266D834DD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BC7BCB-DA3F-42D7-B457-1266D834DD50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9E9720-C36A-4CF2-BA67-A7174E232C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9E9720-C36A-4CF2-BA67-A7174E232C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9E9720-C36A-4CF2-BA67-A7174E232C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9E9720-C36A-4CF2-BA67-A7174E232C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359076A4-CB72-457B-A59F-1E3DC8DFEA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359076A4-CB72-457B-A59F-1E3DC8DFEA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359076A4-CB72-457B-A59F-1E3DC8DFEA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359076A4-CB72-457B-A59F-1E3DC8DFEA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E369533-D6AC-4097-84B0-2E830F333DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E369533-D6AC-4097-84B0-2E830F333DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E369533-D6AC-4097-84B0-2E830F333DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E369533-D6AC-4097-84B0-2E830F333DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDC2ACD-9386-4D68-9E76-72967346A064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDC2ACD-9386-4D68-9E76-72967346A064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDC2ACD-9386-4D68-9E76-72967346A064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDC2ACD-9386-4D68-9E76-72967346A064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902A2CE5-7D28-4EB5-A165-48C56F0E7DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902A2CE5-7D28-4EB5-A165-48C56F0E7DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902A2CE5-7D28-4EB5-A165-48C56F0E7DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902A2CE5-7D28-4EB5-A165-48C56F0E7DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
